@@ -18,4 +18,4 @@ with asserts protecting the access of elements,
 proper memory management with the destructor, and a noexcept move constructor.
 
 ### Diagram
-![diagram]basic_array_diagram.png
+!basic_array_diagram.png
