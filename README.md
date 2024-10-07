@@ -18,4 +18,5 @@ with asserts protecting the access of elements,
 proper memory management with the destructor, and a noexcept move constructor.
 
 ### Diagram
+This won't load in the webpage, you need to download or clone.
 ![Alt text](images\basic_array_diagram.png)
